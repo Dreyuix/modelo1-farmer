@@ -1,0 +1,7 @@
+name: Informame
+on :  push
+
+jobs:
+  informame:
+    runs-on: ubuntu-latest
+    
